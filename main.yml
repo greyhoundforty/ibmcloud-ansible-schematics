@@ -1,0 +1,3 @@
+---
+  - import_playbook: ping-all.yml
+  - import_playbook: update-systems.yml
